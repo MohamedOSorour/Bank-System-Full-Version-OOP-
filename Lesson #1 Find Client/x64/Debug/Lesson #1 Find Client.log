@@ -1,0 +1,72 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lesson #1 Find Client.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bank System Full Version.cpp
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsString.h(30,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsString.h(34,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsString.h(42,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsString.h(140,24): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsString.h(219,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsString.h(256,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsUser.h(185,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+      D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson (23,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsInputValidate.h(104,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsInputValidate.h(108,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsBankClient.h(204,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+      D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson (44,12):
+      see declaration of 'clsBankClient::stTransferRecord'
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsBankClient.h(26,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsBankClient.h(353,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsBankClient.h(358,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsBankClient.h(370,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsBankClient.h(378,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsBankClient.h(379,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsAddNewClient.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsUpdateCurrencyRateScreen.h(49,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Lesson%20#1%20Find%20Client/Bank%20System%20Full%20Version.cpp')
+  
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsBankClient.h(313,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\Lesson #1 Find Client\clsUser.h(343,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Lesson #1 Find Client.vcxproj -> D:\Mido\Back to Glory\Recent Programming\OOP Applications\Bank System Full Version\x64\Debug\Bank System Full Version.exe
