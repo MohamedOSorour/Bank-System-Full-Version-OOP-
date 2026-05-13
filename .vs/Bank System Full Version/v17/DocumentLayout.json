@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Mido\\Back to Glory\\Recent Programming\\OOP Applications\\Bank System Full Version\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09B9697A-C285-4F7E-A6E8-54E89FCBA192}|Lesson #1 Find Client\\Lesson #1 Find Client.vcxproj|D:\\Mido\\Back to Glory\\Recent Programming\\OOP Applications\\Bank System Full Version\\Lesson #1 Find Client\\Bank System Full Version.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{09B9697A-C285-4F7E-A6E8-54E89FCBA192}|Lesson #1 Find Client\\Lesson #1 Find Client.vcxproj|solutionrelative:Lesson #1 Find Client\\Bank System Full Version.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3F438EBF-220D-4456-B4AE-812647059C88}|Bank System Full Version\\Bank System Full Version.vcxproj|D:\\Mido\\Back to Glory\\Recent Programming\\OOP Applications\\Bank System Full Version\\Bank System Full Version\\Bank System Full Version.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F438EBF-220D-4456-B4AE-812647059C88}|Bank System Full Version\\Bank System Full Version.vcxproj|solutionrelative:Bank System Full Version\\Bank System Full Version.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mido\\Back to Glory\\Recent Programming\\OOP Applications\\Bank System Full Version\\Lesson #1 Find Client\\Bank System Full Version.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson #1 Find Client\\Bank System Full Version.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,14 +28,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Bank System Full Version.cpp",
+              "DocumentMoniker": "D:\\Mido\\Back to Glory\\Recent Programming\\OOP Applications\\Bank System Full Version\\Bank System Full Version\\Bank System Full Version.cpp",
+              "RelativeDocumentMoniker": "Bank System Full Version\\Bank System Full Version.cpp",
+              "ToolTip": "D:\\Mido\\Back to Glory\\Recent Programming\\OOP Applications\\Bank System Full Version\\Bank System Full Version\\Bank System Full Version.cpp",
+              "RelativeToolTip": "Bank System Full Version\\Bank System Full Version.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T22:30:44.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank System Full Version.cpp",
               "DocumentMoniker": "D:\\Mido\\Back to Glory\\Recent Programming\\OOP Applications\\Bank System Full Version\\Lesson #1 Find Client\\Bank System Full Version.cpp",
               "RelativeDocumentMoniker": "Lesson #1 Find Client\\Bank System Full Version.cpp",
               "ToolTip": "D:\\Mido\\Back to Glory\\Recent Programming\\OOP Applications\\Bank System Full Version\\Lesson #1 Find Client\\Bank System Full Version.cpp",
               "RelativeToolTip": "Lesson #1 Find Client\\Bank System Full Version.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-13T21:55:09.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T21:55:09.406Z"
             }
           ]
         }
